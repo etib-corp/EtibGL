@@ -1,5 +1,8 @@
-# build folder
+# CMake folder
 build/
+
+# sample folder
+sample/
 
 # Prerequisites
 *.d
